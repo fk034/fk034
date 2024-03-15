@@ -1,3 +1,4 @@
+![logo](https://github.com/fk034/fk034/blob/main/GitBanner.png)
 <h1 align="center">Hi 👋, I'm FARAZ KHAN</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
